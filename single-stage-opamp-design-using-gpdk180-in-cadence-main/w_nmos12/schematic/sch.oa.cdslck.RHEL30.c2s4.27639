@@ -4,13 +4,13 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
-LoginName                      luckysolanki
-HostName                       c2s4
+LoginName                     AmritaKumari
+HostName                       B3
 ProcessIdentifier              27639
 ProcessCreationTime_UTC        1711366232
-ProcessCreationTime_Readable   Mon Mar 25 17:00:32 2024 IST
+ProcessCreationTime_Readable   Mon june 25 17:00:32 2026 IST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/luckysolanki/Desktop/inverter/am/opamp/w_nmos12/schematic/sch.oa.cdslck
-TimeEditLocked                 Mon Mar 25 17:01:37 2024 IST
+FilePathUsedToEditLock         /home/Amrita/Desktop/inverter/am/opamp/w_nmos12/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon june 25 17:01:37 2026 IST
